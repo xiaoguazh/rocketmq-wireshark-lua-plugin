@@ -37,6 +37,9 @@ Major improvements:
         dofile(DATA_DIR.."rocketmq-plugin" .. package.config:sub(1,1) .. "rocketmq.lua")
 
 3)Open wireshark and load a rocket_mq packet
+    Note: You can also reload Lua plugin via Menu: Aanlyze-> Reload Lua Plugins instead of restarting wireshark app.
+
+
 ```
 
 # 3 Customization
